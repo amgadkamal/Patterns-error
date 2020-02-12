@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\amgad\source\repos\JL-Factory\JL-Factory\Mushrooms.h(9,31): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\amgad\source\repos\JL-Factory\JL-Factory\Onion.h(10,31): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\amgad\source\repos\JL-Factory\JL-Factory\Redsauce.h(9,31): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\amgad\source\repos\JL-Factory\JL-Factory\Sausage.h(9,32): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\amgad\source\repos\JL-Factory\JL-Factory\PizzaFactory.h(59,24): error C2512: 'Redsauce::Redsauce': no appropriate default constructor available
+C:\Users\amgad\source\repos\JL-Factory\JL-Factory\PizzaFactory.h(65,24): error C2512: 'Mushrooms::Mushrooms': no appropriate default constructor available
+C:\Users\amgad\source\repos\JL-Factory\JL-Factory\PizzaFactory.h(71,20): error C2512: 'Onion::Onion': no appropriate default constructor available
+C:\Users\amgad\source\repos\JL-Factory\JL-Factory\PizzaFactory.h(77,23): error C2512: 'Redsauce::Redsauce': no appropriate default constructor available
+C:\Users\amgad\source\repos\JL-Factory\JL-Factory\PizzaFactory.h(84,22): error C2512: 'Sausage::Sausage': no appropriate default constructor available
+C:\Users\amgad\source\repos\JL-Factory\JL-Factory\PizzaFactory.h(92,1): error C2059: syntax error: '}'
+C:\Users\amgad\source\repos\JL-Factory\JL-Factory\PizzaFactory.h(92,1): error C2143: syntax error: missing ';' before '}'
